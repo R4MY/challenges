@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/FunWithAnagrams/FunWithAnagrams.iml" filepath="$PROJECT_DIR$/FunWithAnagrams/FunWithAnagrams.iml" />
+      <module fileurl="file://$PROJECT_DIR$/IntegerListDeltaHandler/IntegerListDeltaHandler.iml" filepath="$PROJECT_DIR$/IntegerListDeltaHandler/IntegerListDeltaHandler.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/challenges.iml" filepath="$PROJECT_DIR$/.idea/challenges.iml" />
+    </modules>
+  </component>
+</project>
