@@ -1,0 +1,7 @@
+outputMessages:
+  fizz: "Fizz"
+  buzz: "Buzz"
+  fizzBuzz: "FizzBuzz"
+divisibleByNumbers:
+  fizz: 3
+  buzz: 5
